@@ -1,6 +1,12 @@
-# 🚀 Microsserviço Sinatra
+# 🚀 Sinatra Boilerplate
 
-Um microsserviço simples baseado em Sinatra com endpoint de verificação de saúde.
+Esse projeto foi criado para servir como um ponto de partida para aplicações baseadas em Sinatra, seja apenas para backends ou frontends simples.
+
+## 🤔 Por que Sinatra ao invés do Ruby on Rails?
+
+Sinatra é uma alternativa leve e eficiente para projetos que não necessitam da complexidade do Rails, ideal para aplicações rápidas e de pequeno a médio porte.
+
+[Saiba mais sobre o sinatra aqui](https://sinatrarb.com/)
 
 ## 📋 Pré-requisitos
 
