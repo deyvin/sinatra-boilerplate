@@ -167,7 +167,7 @@ Se você encontrar problemas, verifique:
 - ✅ Se todas as gems estão instaladas
 - ✅ Se não há conflitos de versão
 - ✅ Se a porta não está sendo usada por outro processo
-- ✅ Se o Ruby está na versão correta (3.1.6)
+- ✅ Se o Ruby está na versão correta (3.4.6)
 
 ---
 
